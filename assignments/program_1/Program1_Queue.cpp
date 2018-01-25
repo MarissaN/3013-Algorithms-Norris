@@ -2,13 +2,13 @@
 ///////////////////////////////////////////////////////////////////////////////
 //                   
 // Title:            Assignment 1 - Assorted Queue
-// Files:            (list of source files)
+// Files:            Program1_Queue.cpp
 // Semester:         Advance Structures and Algorithms Spring 2018
 //
 // Author:           Marissa Norris
-// Email:            rissanorris16@gmial.com
+// Email:            rissanorris16@gmail.com
 // Description:
-//       This program enters randomly generated intergers into a linked list in an ascending order
+//       This program enters randomly generated integers into a linked list in an ascending order
 /////////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
