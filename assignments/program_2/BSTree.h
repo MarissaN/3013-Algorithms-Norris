@@ -1,5 +1,5 @@
 //Marissa Norris
-//Assignment 4 - Binary Tree
+//Program 2 - Binary Tree
 //BSTree.h
 //BSTree definition file
 
